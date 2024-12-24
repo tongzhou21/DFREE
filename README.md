@@ -1,4 +1,4 @@
-# DFREE
+# DocFEE
 
 This project hosts the code for implementing the following paper:
 
@@ -10,7 +10,7 @@ This project hosts the code for implementing the following paper:
 
 | **Key**          | **Value**   |
 |------------------|-------------|
-| Dataset Name     | DFREE       |
+| Dataset Name     | DocFEE       |
 | Size             | 19,044      |
 | Event Type       | 9           |
 | Argument Type    | 38          |
@@ -30,7 +30,7 @@ This project hosts the code for implementing the following paper:
 | Major Asset Loss          | Company Name, Announcement Date, Other Losses, Loss Amount                                  |
 | Major External Compensation | Company Name, Announcement Date, Compensation Recipient, Compensation Amount               |
 
-Run `unzip DFREE_dataset.zip` to get the train and test set of DFREE.
+Run `unzip DocFEE_dataset.zip` to get the train and test set of DocFEE.
 
 ## Usage
 

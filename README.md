@@ -2,8 +2,7 @@
 
 This project hosts the code for implementing the following paper:
 
-> [**DFREE:A Dataset For Document-Level Financial Risk Event Extraction**](https://TODO)          
-> Yubo Chen, Tong Zhou, Kang Liu, Jun Zhao
+> [**DocFEE: A Dataset For Document-Level Chinese Financial Event Extraction**](https://TODO)          
 
 ## Dataset
 

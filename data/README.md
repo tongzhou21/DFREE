@@ -1,6 +1,6 @@
 # Dataset
 
-![../figs/fig_finee_case.png](figs/fig_finee_case.png)
+![../figs/fig_finee_case.png](../figs/fig_finee_case.png)
 
 | **Key**          | **Value**   |
 |------------------|-------------|
